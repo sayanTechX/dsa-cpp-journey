@@ -22,7 +22,7 @@ This repository contains my daily practice, concepts, and problem-solving progre
 - Array Basics
 - Traversal (Loops)
 - Smallest & Largest Element
-- Linear Search
+- Linear Search Algorithem
 - Reverse Array (2 Pointer)
 
 ### 🔜 Upcoming Topics
