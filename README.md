@@ -24,6 +24,7 @@ This repository contains my daily practice, concepts, and problem-solving progre
 - Smallest & Largest Element
 - Linear Search Algorithem
 - Reverse Array (2 Pointer)
+- Vector
 
 ### 🔜 Upcoming Topics
 - Sorting Algorithms
